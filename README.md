@@ -1,14 +1,17 @@
 # create a cross-platform desktop app to resize image dimensions, using JavaScript and Electron.
 
-### Instralization
+## Installation
+1. Clone
 ```
 git clone https://github.com/Vishwa-ud/Electron-Desktop-App.git
 ```
-then to install packages
+2. Navigate to Directory
+
+3. then to install packages
 ```
 npm i
 ```
-then run 
+4. then run 
 ```
 npm start
 ```
